@@ -4,12 +4,12 @@
 
 <p>Full Stack Developer</p>
 
-##  Sobre mim
+## 📗 About me
 
 <p> 💻 Dev Jr. </p>
 <p> 🎓 Certified in Full Stack Node Development by Digital House </p>
 
-## 🍀 Skills
+## ✅ Skills
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
