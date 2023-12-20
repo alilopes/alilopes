@@ -5,7 +5,7 @@
 ## 📗 About me
 
 <p> 💻 Back-end Developer </p>
-<p> 🎓 Certified as Java Specialist and Spring Boot Specialist vy AlgaWorks </p>
+<p> 🎓 Certified as Java Specialist and Spring Boot Specialist by AlgaWorks </p>
 <p> 🎓 Certified in Full Stack Node Development by Digital House </p>
 
 ## ✅ Skills
